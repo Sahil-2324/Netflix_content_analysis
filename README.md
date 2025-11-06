@@ -13,7 +13,7 @@ The main objective is to clean and transform raw Netflix data, perform SQL-based
 # 🔹 Step 1: CSV Raw and Cleaned Dataset
 
 ➡️ Data:  raw_dataset.csv
-          undated_netflix_titles.csv
+          updated_netflix_titles.csv
 
 # 🔹 Step 2: Python (Data Cleaning)
 Raw Netflix data was cleaned using Python (Pandas):
